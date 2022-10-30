@@ -1,0 +1,11 @@
+# Python3 environment
+env/
+
+# PyCharm
+.idea/
+
+# Git
+.git/
+
+# Python optimization
+__pycache__/
